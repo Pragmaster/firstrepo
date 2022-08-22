@@ -1,6 +1,6 @@
 print("Add")
 
-first_num = int(input("Enter first number: "))
-second_num = int(input("Enter second number: "))
+def add(first_num, second_num):
+    return first_num + second_num
 
-print(first_num + second_num)
+print(add)
