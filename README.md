@@ -1,3 +1,7 @@
-I'm Nurs
+<h1>Project name!</h1>
 
-This is my first git lesson. 
+Short description...
+
+Commands for start project
+
+Mini tutorial
